@@ -1,36 +1,39 @@
 /* Header */
 h1 {
-    background-color: #A9A9A9;
-    text-align: right;
-    color: #003865;
-    font-size: 60px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    letter-spacing: -1px;
-    padding-right: 400px;
-    
+  background-color: #a9a9a9;
+  text-align: right;
+  color: #003865;
+  font-size: 35px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  letter-spacing: -1px;
+  padding-right: 100px;
 }
 
 /* padding main */
 
 main {
-    padding-left: 150px;
-    padding-top: 100px;
-
+  padding-left: 150px;
+  padding-top: 100px;
 }
 
 /* Subtitulos */
 h2 {
-
-    color: #8B4513;
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 40px;
-    letter-spacing: 0.65em;
-
+  color: #8b4513;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 25px;
+  letter-spacing: 0.65em;
 }
 
 /* textos */
 
-i, strong {
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 35px;
+i,
+strong {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 16px;
 }
+
+/* listas */
+li {
+    margin: 16px;
+}
+
